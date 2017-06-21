@@ -1,0 +1,118 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 15px;
+    font-family: Georgia, serif;
+    color: #333333;
+    background: url(img/head.jpg) no-repeat top center;
+}
+.conteriner {
+
+	width: 982px;
+	margin: 0 auto;
+	margin-top:219px;
+}
+.block-content {
+	margin-bottom: 40px;
+}
+.left-block {
+    margin-top: 43px;
+    display: inline;
+    padding-left: 10px;
+    background: url(img/left.jpg) repeat-y top;
+    float: left;
+    width: 260px;
+}
+h3 {
+	font-size: 16px;
+    color: #666666;
+    padding-left: 15px;
+    background: url(img/separator.gif) no-repeat left 50%;
+    margin-bottom: 15px;
+}
+ul, li {
+    list-style-type: none;
+}
+#categories a {
+    margin: 0 5px;
+    padding: 9px 0 9px 9px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #661d18;
+    font-size: 15px;
+    display: block;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #cccccc;
+}
+main.css:133
+a {
+    outline: 0;
+    color: #5d9624;
+}
+input 
+	width: 200px;
+}
+#main-block {
+    display: inline;
+    float: left;
+    overflow: hidden;
+    width: 689px;
+    padding: 40px 0 0 11px;
+}
+#vbl {
+    padding: 0 21px;
+    padding-top: 41px;
+}
+p {
+    font-weight: bold;
+}
+#vbl img {
+padding: 5px;
+float: left;
+}
+#vbl span {
+	display: block;
+
+}
+#vbl span .foat_right {
+	padding: 5px;
+	float: right;
+}
+.red {
+	color: red;
+}
+#blok {
+    padding-top: 25px;
+    display: block;
+}
+.blok1 {
+    width: 100%;
+    display: block;
+    float: left;
+    padding: 2px;
+    height: 20px;
+}
+.right {
+    text-align: right;
+    float: right;
+}
+ .title {
+    font: bold 16px serif, Georgia;
+}
+.title a {
+    outline: 0;
+    color: #5d9624;
+}
+span.likes {
+    margin-right: 5px;
+    float: left;
+    padding-left: 14px;
+    background: url(../img/m4.png) no-repeat scroll 0 -85px;
+    color: #888;
+}
+.grey {
+    background: #f4f4f3;
+}
